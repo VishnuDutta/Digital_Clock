@@ -17,7 +17,7 @@ body{
 .display_content{
     display: flex;
     gap: 5px;
-    font-size: 10vh;
+    font-size: 50vh;
 }
 
 .AMPM{
@@ -31,4 +31,8 @@ body{
     position: absolute;
     left: 0;
     cursor: pointer;
+}
+
+.displayDay{
+    font-size: 20vh;
 }
